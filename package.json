@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "csvjson": "^4.3.3",
+        "express": "^4.15.3",
+        "js2xmlparser": "^3.0.0",
+        "jsonexport": "^2.0.9",
+        "q": "^1.5.0",
+        "request": "^2.81.0",
+        "xml2js": "^0.4.17"
+    }
+}
